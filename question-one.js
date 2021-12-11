@@ -13,4 +13,5 @@ function removeDuplicates(nums) {
   return i + 1;
 }
 
+// This is the answer function
 console.log(removeDuplicates(nums));
