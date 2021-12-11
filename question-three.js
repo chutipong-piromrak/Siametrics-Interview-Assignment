@@ -48,4 +48,5 @@ function main(arrInt) {
 
 var arrInt = [197, 130, 1]; //Input Arry
 
+// This is the answer function
 console.log(main(arrInt));
