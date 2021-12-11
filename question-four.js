@@ -11,4 +11,5 @@ function maxProfit(prices) {
   return profit;
 }
 
-console.log(maxProfit(prices));
+// This is the answer function
+console.log(maxProfit(prices)); 
